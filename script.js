@@ -1,4 +1,4 @@
-// tow type of data type in js 
+// two type of data type in js 
 // primitive
 //     "int, str, float, undidined, null"
 // non-primitive
