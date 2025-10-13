@@ -159,6 +159,6 @@
 // }
 // console.log("sum = ",sum);
 
-for(let i = 2; i <= 20; i++){
-    console.log("i is = ", i);
-}
+// for(let i = 2; i <= 20; i++){
+//     console.log("i is = ", i);
+// }
