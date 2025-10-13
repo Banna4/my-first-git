@@ -144,8 +144,10 @@
 // }else {
 //     console.log("Your grade is F");
 // }
-// LOOPS
 
+// {{{    LOOPS   }}}
+
+// FOR LOOP
 // for(let count = 1; count <= 5; count++){
 //     console.log("Hey dear")
 // }
@@ -159,6 +161,50 @@
 // }
 // console.log("sum = ",sum);
 
+
 // for(let i = 2; i <= 20; i++){
 //     console.log("i is = ", i);
 // }
+
+// WHILE LOOP
+// let i = 1;
+// while(i <= 5){
+//     console.log("Your college");
+//     i++;
+// }
+
+// DO WHILE LOOP
+// let i = 1;
+// do {
+//     console.log("i = ", i);
+//     i++;
+// } while( i <= 6);
+
+// FOR OF LOOP
+// let str = "AKash Singh";
+
+// let size = 0;
+// for(let i of str){
+//     console.log("i = ", i);
+//     size++;
+// }
+// console.log("String size is ", size);
+
+// FOR IN LOOP
+// let student = {
+//     name: "Rahul Sharma",
+//     age: 20,
+//     cgpa: 7.5,
+//     isPass: true
+// };
+
+// for(let key in student){
+//     console.log("key = ", key, ", value is ", student[key]);
+// }
+
+for(let num = 1; num <= 20; num++){
+    if(num%2 === 0){
+        console.log("num = ", num);
+    }
+    
+}
