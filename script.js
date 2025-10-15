@@ -227,10 +227,10 @@
 // This are also string but difined by back tiks ` str `
 // let str = `Akash singh chouhan`;
 
-let apple = {
-    color : "red",
-    price : 40
-};
+// let apple = {
+//     color : "red",
+//     price : 40
+// };
 
 // console.log("The price of ", apple.color ,"apple is ", apple.price);
 // by template litrals we can also write and it same like f string in python 
@@ -268,3 +268,30 @@ let apple = {
 // let a = prompt("Enter your name");
 // let username = "@" + a + a.length;
 // console.log(username);
+
+
+
+// ARRAY
+//array are collection of object
+
+// let marks = [23,45,67,22];
+// console.log(marks);
+// let arr = [23,54,78,90];
+
+// for(let i = 0; i < arr.length; i++){
+//     console.log(arr[i]);
+// }
+// let cities = ["Dehli","pune","indore","datiya"];
+
+// for(let city of cities){
+//     console.log(city.toUpperCase());
+// }// for all latter capitalize
+
+// let cities = ["new dehli","pune","indore","datiya"];
+
+// for(let city of cities){
+//     let cap = city.charAt(0).toUpperCase() + city.slice(1).toLowerCase();
+//     console.log(cap);
+// }
+// for multi word like new dehli
+
