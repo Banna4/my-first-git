@@ -208,3 +208,63 @@
 //     }
     
 // }
+
+// let gamenuber = 25;
+// let usernum = prompt("Gusse the number : ");
+
+// while(usernum != gamenuber){
+//     usernum = prompt("You entered wrong number, Gusee again : ");
+// }
+// console.log("Congrate you WIN ");7665
+
+
+
+
+// STRING
+
+
+// Template litrals
+// This are also string but difined by back tiks ` str `
+// let str = `Akash singh chouhan`;
+
+let apple = {
+    color : "red",
+    price : 40
+};
+
+// console.log("The price of ", apple.color ,"apple is ", apple.price);
+// by template litrals we can also write and it same like f string in python 
+// let output = `The cost of ${apple.color} apple is ${apple.price}`;
+// console.log(output);
+
+// STRING METHODS
+// let str = "akash singh chouhan";
+// let nstr = str.toLowerCase();
+// let ustr = str.toUpperCase();
+// console.log(ustr);
+
+// let str = "    Yammy  food   ";
+// console.log(str.trim());//remove space from end and start
+
+// STRING SLCING 
+// let str = "012345678";
+// console.log(str.slice(0,6));
+
+// strin concat
+// let str1 = "Akash ";
+// let str2 = "Singh";
+// // console.log(str1+str2); //its also true
+// let result = str1.concat(str2);
+// console.log(result);
+
+
+// REPLACE  // str.replace(searchvel,newVel)
+// let str = "hello";
+// let str2 = "amanna reddy";
+// console.log(str.replace("h","y"));
+// console.log(str2.replaceAll("r","b"));
+// let str = "akash";
+// console.log(str.charAt(1));
+// let a = prompt("Enter your name");
+// let username = "@" + a + a.length;
+// console.log(username);
