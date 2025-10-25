@@ -295,3 +295,49 @@
 // }
 // for multi word like new dehli
 
+
+
+// let marks = [32,87,90,21,11];
+// let sum = 0;
+// for(let val of marks){
+//     sum += val;
+
+// }
+// let avg = sum/marks.length;
+// console.log(`The average of marks of the student is = ${avg}`);
+// let item = [250, 645, 300, 900, 50];
+//  for(let i = 0; i< item.length; i++){
+//     let offer = item[i]/10;
+//     item[i] -= offer;
+//  }
+// console.log(item);
+
+// Array methods
+// let item = ["apple","leachi", "ber"];
+// item.push("Guava");
+// console.log(item);
+// let delitem = item.pop();//it delee from the end of array
+
+// console.log(item);
+// console.log("Deleted", delitem);
+
+
+// console.log(item.toString());
+// let veg = ["potato","tomato","Bringel"];
+// let food = item.concat(veg);
+// console.log(food);
+
+// veg.unshift("")
+
+// task 
+let companies = ["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
+// removing first company
+// companies.shift();
+//remove uber and add ola
+// companies.splice(2,1,"Ola");
+
+// add amazon at end
+// companies.push("Amazon");
+// console.log(companies);
+
+
